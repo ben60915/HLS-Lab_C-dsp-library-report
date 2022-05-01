@@ -173,11 +173,11 @@ fftStageKernelLastStageS2S用於整個FFT運算的最後一個stage，由於最�
 
 > d) cosim input waveform
 > 
-> ![image](https://user-images.githubusercontent.com/102540321/166140271-f4b51b37-b4a4-4f0b-8451-fb1fc5364f95.png)
+> ![image](https://user-images.githubusercontent.com/102540321/166144312-b0496e91-dc97-46cc-8a00-6ba40d0064fd.png)
 
 > e) cosim output waveform
 > 
-> ![image](https://user-images.githubusercontent.com/102540321/166140283-1f5cfe41-14e3-4d4b-b45c-47e7464ee5a9.png)
+> ![image](https://user-images.githubusercontent.com/102540321/166144314-d2b344b5-8350-4d6d-8e55-ba2042552466.png)
 
 **2. 2D**
 
@@ -186,6 +186,17 @@ fftStageKernelLastStageS2S用於整個FFT運算的最後一個stage，由於最�
 > ![image](https://user-images.githubusercontent.com/102540321/166140331-6d5b451c-1f02-4292-b3af-b666193de610.png)
 > 
 > ![image](https://user-images.githubusercontent.com/102540321/166140339-6822fb5b-ac3b-4333-9b69-e71ae20d1ddb.png)
+
+> b) fixed
+> 
+> ![image](https://user-images.githubusercontent.com/102540321/166144538-98a30a91-bccd-4b06-bcd2-331558e25a0f.png)
+> 
+> ![image](https://user-images.githubusercontent.com/102540321/166144541-efe5df5d-8a6a-42e9-b652-f5296ed4000e.png)
+
+> c) cosim waveform
+> 
+> ![image](https://user-images.githubusercontent.com/102540321/166144555-e464383b-1446-47b4-a5a0-d6fa15e145f5.png)
+
 
 ### ．Synthesis Results :
 
@@ -208,6 +219,7 @@ fftStageKernelLastStageS2S用於整個FFT運算的最後一個stage，由於最�
 > b) U50
 > 
 >![image](https://user-images.githubusercontent.com/102540321/166140514-20251ca3-8729-4bf5-8f02-e06046915fc9.png)
+
 
 **3. 2D float**
 
