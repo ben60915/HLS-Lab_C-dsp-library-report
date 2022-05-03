@@ -1,6 +1,8 @@
 # HLS-Lab_C-dsp-library-report
 SSR FFT
 
+程式碼在branch:"master"裡
+
 # 1. FFT
 
 Discrete Fourier Transform(DFT)是一種被廣泛運用於通訊以及訊號處理方面的技術，而Fast Fourier Transform(FFT)透過對DFT運算式的化簡，可以將DFT的運算複雜度由O(N^2)降到O(NlgN)，有效的降低硬體資源以及減少時間延遲，更適用於需要即時性的系統。
